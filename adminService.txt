@@ -3,4 +3,8 @@ change the roles
 manage the database
 close the connection
 change1
+<<<<<<< HEAD
 change2 in my database
+=======
+change2 in sri's database
+>>>>>>> feature3
