@@ -1,7 +1,7 @@
 add and remove users
 change the roles
 manage the database
-close the connection
+close the mysql connection
 change1
 <<<<<<< HEAD
 change2 in my database
